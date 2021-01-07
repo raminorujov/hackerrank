@@ -1,4 +1,4 @@
-# [HackerRank](https://www.hackerrank.com/raminorujov) 
+My HackerRank profile (https://www.hackerrank.com/raminorujov) 
 
 > ["HackerRank is one of the best online resources for the software engineering interview preparation. This repo contains my solutions to HackerRank problems.
 
