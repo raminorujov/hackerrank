@@ -6,10 +6,10 @@
 
 |  #  |      Title     |   Solutions   | Difficulty  | Tag                   
 |-----|----------------|---------------|-------------|-------------
-|1|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|[Solution](algorithms/SimpleArraySum.java) ||Easy|Array|
+|1|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|[Solution](algorithms/simple-array-sum/Solution.java) |Easy|Array|
 
 ## SQL
 
 |  #  |      Title     |   Solutions   | Difficulty  | Tag                   
 |-----|----------------|---------------|-------------|-------------
-|1|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)|[Solution](sql/revising-select-query-1.sql) ||Easy|Select|
+|1|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)|[Solution](sql/revising-select-query-1/solution.sql) |Easy|Select|
