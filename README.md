@@ -54,3 +54,11 @@
 |39|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)|[Solution](sql/weather-observation-station-18/solution.sql)|Medium|Aggregation|
 |40|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)|[Solution](sql/weather-observation-station-19/solution.sql)|Medium|Aggregation|
 |41|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)|[Solution](sql/weather-observation-station-20/solution.sql)|Medium|Aggregation|
+|42|[Asian Population](https://www.hackerrank.com/challenges/asian-population)|[Solution](sql/asian-population/solution.sql)|Easy|Basic Join|
+|43|[African Cities](https://www.hackerrank.com/challenges/african-cities)|[Solution](sql/african-cities/solution.sql)|Easy|Basic Join|
+|44|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)|[Solution](sql/average-population-of-each-continent/solution.sql)|Easy|Basic Join|
+|45|[The Report](https://www.hackerrank.com/challenges/the-report)|[Solution](sql/the-report/solution.sql)|Medium|Basic Join|
+|46|[Top Competitors](https://www.hackerrank.com/challenges/full-score)|[Solution](sql/full-score/solution.sql)|Medium|Basic Join|
+|47|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)|[Solution](sql/harry-potter-and-wands/solution.sql)|Medium|Basic Join|
+|48|[Challenges](https://www.hackerrank.com/challenges/challenges)|[Solution](sql/challenges/solution.sql)|Medium|Basic Join|
+|49|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)|[Solution](sql/contest-leaderboard/solution.sql)|Medium|Basic Join|
