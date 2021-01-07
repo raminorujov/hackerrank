@@ -37,28 +37,36 @@
 |23|[Occupations](https://www.hackerrank.com/challenges/occupations)|[Solution](sql/occupations/solution.sql)|Medium|Advanced Select|
 |24|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)|[Solution](sql/binary-search-tree-1/solution.sql)|Medium|Advanced Select|
 |25|[New Companies](https://www.hackerrank.com/challenges/the-company)|[Solution](sql/the-company/solution.sql)|Medium|Advanced Select|
-|25|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function)|[Solution](sql/revising-aggregations-the-count-function/solution.sql)|Easy|Aggregation|
-|26|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)|[Solution](sql/revising-aggregations-sum/solution.sql)|Easy|Aggregation|
-|27|[Revising Aggregations - The Average Function](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)|[Solution](sql/revising-aggregations-the-average-function/solution.sql)|Easy|Aggregation|
-|28|[Average Population](https://www.hackerrank.com/challenges/average-population)|[Solution](sql/average-population/solution.sql)|Easy|Aggregation|
-|29|[Japan Population](https://www.hackerrank.com/challenges/japan-population)|[Solution](sql/japan-population/solution.sql)|Easy|Aggregation|
-|30|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference)|[Solution](sql/population-density-difference/solution.sql)|Easy|Aggregation|
-|31|[The Blunder](https://www.hackerrank.com/challenges/the-blunder)|[Solution](sql/the-blunder/solution.sql)|Easy|Aggregation|
-|32|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)|[Solution](sql/earnings-of-employees/solution.sql)|Easy|Aggregation|
-|33|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)|[Solution](sql/weather-observation-station-2/solution.sql)|Easy|Aggregation|
-|34|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13)|[Solution](sql/weather-observation-station-13/solution.sql)|Easy|Aggregation|
-|35|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14)|[Solution](sql/weather-observation-station-14/solution.sql)|Easy|Aggregation|
-|36|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15)|[Solution](sql/weather-observation-station-15/solution.sql)|Easy|Aggregation|
-|37|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16)|[Solution](sql/weather-observation-station-16/solution.sql)|Easy|Aggregation|
-|38|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)|[Solution](sql/weather-observation-station-17/solution.sql)|Easy|Aggregation|
-|39|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)|[Solution](sql/weather-observation-station-18/solution.sql)|Medium|Aggregation|
-|40|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)|[Solution](sql/weather-observation-station-19/solution.sql)|Medium|Aggregation|
-|41|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)|[Solution](sql/weather-observation-station-20/solution.sql)|Medium|Aggregation|
-|42|[Asian Population](https://www.hackerrank.com/challenges/asian-population)|[Solution](sql/asian-population/solution.sql)|Easy|Basic Join|
-|43|[African Cities](https://www.hackerrank.com/challenges/african-cities)|[Solution](sql/african-cities/solution.sql)|Easy|Basic Join|
-|44|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)|[Solution](sql/average-population-of-each-continent/solution.sql)|Easy|Basic Join|
-|45|[The Report](https://www.hackerrank.com/challenges/the-report)|[Solution](sql/the-report/solution.sql)|Medium|Basic Join|
-|46|[Top Competitors](https://www.hackerrank.com/challenges/full-score)|[Solution](sql/full-score/solution.sql)|Medium|Basic Join|
-|47|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)|[Solution](sql/harry-potter-and-wands/solution.sql)|Medium|Basic Join|
-|48|[Challenges](https://www.hackerrank.com/challenges/challenges)|[Solution](sql/challenges/solution.sql)|Medium|Basic Join|
-|49|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)|[Solution](sql/contest-leaderboard/solution.sql)|Medium|Basic Join|
+|26|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function)|[Solution](sql/revising-aggregations-the-count-function/solution.sql)|Easy|Aggregation|
+|27|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)|[Solution](sql/revising-aggregations-sum/solution.sql)|Easy|Aggregation|
+|28|[Revising Aggregations - The Average Function](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)|[Solution](sql/revising-aggregations-the-average-function/solution.sql)|Easy|Aggregation|
+|29|[Average Population](https://www.hackerrank.com/challenges/average-population)|[Solution](sql/average-population/solution.sql)|Easy|Aggregation|
+|30|[Japan Population](https://www.hackerrank.com/challenges/japan-population)|[Solution](sql/japan-population/solution.sql)|Easy|Aggregation|
+|31|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference)|[Solution](sql/population-density-difference/solution.sql)|Easy|Aggregation|
+|32|[The Blunder](https://www.hackerrank.com/challenges/the-blunder)|[Solution](sql/the-blunder/solution.sql)|Easy|Aggregation|
+|33|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)|[Solution](sql/earnings-of-employees/solution.sql)|Easy|Aggregation|
+|34|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)|[Solution](sql/weather-observation-station-2/solution.sql)|Easy|Aggregation|
+|35|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13)|[Solution](sql/weather-observation-station-13/solution.sql)|Easy|Aggregation|
+|36|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14)|[Solution](sql/weather-observation-station-14/solution.sql)|Easy|Aggregation|
+|37|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15)|[Solution](sql/weather-observation-station-15/solution.sql)|Easy|Aggregation|
+|38|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16)|[Solution](sql/weather-observation-station-16/solution.sql)|Easy|Aggregation|
+|39|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)|[Solution](sql/weather-observation-station-17/solution.sql)|Easy|Aggregation|
+|40|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)|[Solution](sql/weather-observation-station-18/solution.sql)|Medium|Aggregation|
+|41|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)|[Solution](sql/weather-observation-station-19/solution.sql)|Medium|Aggregation|
+|42|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)|[Solution](sql/weather-observation-station-20/solution.sql)|Medium|Aggregation|
+|43|[Asian Population](https://www.hackerrank.com/challenges/asian-population)|[Solution](sql/asian-population/solution.sql)|Easy|Basic Join|
+|44|[African Cities](https://www.hackerrank.com/challenges/african-cities)|[Solution](sql/african-cities/solution.sql)|Easy|Basic Join|
+|45|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)|[Solution](sql/average-population-of-each-continent/solution.sql)|Easy|Basic Join|
+|46|[The Report](https://www.hackerrank.com/challenges/the-report)|[Solution](sql/the-report/solution.sql)|Medium|Basic Join|
+|47|[Top Competitors](https://www.hackerrank.com/challenges/full-score)|[Solution](sql/full-score/solution.sql)|Medium|Basic Join|
+|48|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)|[Solution](sql/harry-potter-and-wands/solution.sql)|Medium|Basic Join|
+|49|[Challenges](https://www.hackerrank.com/challenges/challenges)|[Solution](sql/challenges/solution.sql)|Medium|Basic Join|
+|50|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)|[Solution](sql/contest-leaderboard/solution.sql)|Medium|Basic Join|
+|51|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects)|[Solution](sql/sql-projects/solution.sql)|Medium|Advanced Join|
+|52|[Placements](https://www.hackerrank.com/challenges/placements)|[Solution](sql/placements/solution.sql)|Medium|Advanced Join|
+|53|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql)|[Solution](sql/15-days-of-learning-sql/solution.sql)|Hard|Advanced Join|
+|54|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)|[Solution](sql/draw-the-triangle-1/solution.sql)|Easy|Alternative Queries|
+|55|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)|[Solution](sql/draw-the-triangle-2/solution.sql)|Easy|Alternative Queries|
+|56|[Symmetric Ppairs](https://www.hackerrank.com/challenges/symmetric-pairs)|[Solution](sql/symmetric-pairs/solution.sql)|Medium|Advanced Join|
+|57|[Interviews](https://www.hackerrank.com/challenges/interviews)|[Solution](sql/interviews/solution.sql)|Hard|Advanced Join|
+|58|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers)|[Solution](sql/print-prime-numbers/solution.sql)|Medium|Alternative Queries|
