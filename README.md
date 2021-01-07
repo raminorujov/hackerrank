@@ -30,3 +30,7 @@
 |16|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)|[Solution](sql/weather-observation-station-11/solution.sql) |Easy|Select|
 |17|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)|[Solution](sql/weather-observation-station-12/solution.sql) |Easy|Select|
 |18|[More Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)|[Solution](sql/more-than-75-marks/solution.sql) |Easy|Select|
+|19|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees)|[Solution](sql/name-of-employees/solution.sql) |Easy|Select|
+|20|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)|[Solution](sql/salary-of-employees/solution.sql) |Easy|Select|
+|21|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle)|[Solution](sql/what-type-of-triangle/solution.sql) |Easy|Select|
+|22|[The PADS](https://www.hackerrank.com/challenges/the-pads)|[Solution](sql/the-pads/solution.sql)|Medium|Select|
