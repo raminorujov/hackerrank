@@ -33,4 +33,7 @@
 |19|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees)|[Solution](sql/name-of-employees/solution.sql) |Easy|Select|
 |20|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)|[Solution](sql/salary-of-employees/solution.sql) |Easy|Select|
 |21|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle)|[Solution](sql/what-type-of-triangle/solution.sql) |Easy|Select|
-|22|[The PADS](https://www.hackerrank.com/challenges/the-pads)|[Solution](sql/the-pads/solution.sql)|Medium|Select|
+|22|[The PADS](https://www.hackerrank.com/challenges/the-pads)|[Solution](sql/the-pads/solution.sql)|Medium|Advanced Select|
+|23|[Occupations](https://www.hackerrank.com/challenges/occupations)|[Solution](sql/occupations/solution.sql)|Medium|Advanced Select|
+|24|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)|[Solution](sql/binary-search-tree-1/solution.sql)|Medium|Advanced Select|
+|25|[New Companies](https://www.hackerrank.com/challenges/the-company)|[Solution](sql/the-company/solution.sql)|Medium|Advanced Select|
