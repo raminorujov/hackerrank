@@ -7,6 +7,7 @@ My HackerRank profile (https://www.hackerrank.com/raminorujov)
 |  #  |      Title     |   Solutions   | Difficulty  | Tag                   
 |-----|----------------|---------------|-------------|-------------
 |1|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|[Solution](algorithms/simple-array-sum/Solution.java) |Easy|Array|
+|2|[Another problem](https://www.hackerrank.com/challenges/test)|[Solution](algorithms/test/Solution.java) |Easy|Array|
 
 ## SQL
 
